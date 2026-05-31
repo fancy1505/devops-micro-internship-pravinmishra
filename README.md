@@ -149,7 +149,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | 14 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed
-**Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ [Solved](link)
+**Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
 
 ---
 
