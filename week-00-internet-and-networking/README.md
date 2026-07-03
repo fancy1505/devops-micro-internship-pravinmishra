@@ -246,19 +246,21 @@ P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin 
 
 ### What did you find easy?
 
-Add your answer here...
+ Understanding the basic idea of Internet & Networking and App Architecture was relatively easy 
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+The challenging part was connecting all the pieces together—how DNS, networking, and application architecture interact in real real-world systems. Also, remembering that DNS does not handle ports (like 3000) required clarification. 
+
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will focus on deeper hands-on practice with networking commands, understanding how requests flow through systems step-by-step, and exploring real DevOps workflows like CI/CD pipelines and cloud deployment basics.
+
 
 ---
 
