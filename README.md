@@ -14,7 +14,7 @@
 | | |
 |---|---|
 | **Name** | Fancy Kejriwal |
-| **LinkedIn** | () |
+| **LinkedIn** | https://www.linkedin.com/in/fancy-kejriwal/ |
 | **Location** | Pune,India |
 | **Background** | SAP BASIS AND CLOUD CONSULTANT |
 | **Goal** | |SENIOR SAP DEVOPS ENGINEER|
