@@ -125,12 +125,11 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+https://www.linkedin.com/pulse/my-version-20-vision-career-2030-fancy-kejriwal-xqofc/
 
 ### Public Link
 
-Paste your link here:
-
+https://www.linkedin.com/pulse/my-version-20-vision-career-2030-fancy-kejriwal-xqofc/
 `__________________________`
 
 ---
@@ -195,9 +194,10 @@ Choose books that improve:
 4.The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois & John Willis
 5.SAP BTP-The Comprehensive Guide — Christoph Kotz, Shashank Jain, and Sven Mulder
 6.The Mahabharata-Ramesh Menon
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+7.Devops with SAP-SAP press
+8.Mindset-Dr Carol S.DWECK
+9.The Power of your Subconscious Mind-Dr Joseph Murphy
+10.The Almanack of Naval Ravikant-Eric Jorgenson
 
 ---
 
@@ -339,8 +339,8 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/pulse/my-version-20-vision-career-2030-fancy-kejriwal-xqofc/ 
+- Blog / Medium : https://www.linkedin.com/pulse/my-version-20-vision-career-2030-fancy-kejriwal-xqofc/ 
 
 ---
 
