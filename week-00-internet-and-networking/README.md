@@ -16,7 +16,8 @@ Write a clear ChatGPT prompt to help you understand:
 
 > "What is a protocol in networking? Explain with a simple real-life example."
 
-Take a screenshot of your interaction showing:
+<img width="1248" height="616" alt="image" src="https://github.com/user-attachments/assets/89c95828-6653-481b-ac92-55c85b3de52e" />
+
 
 * Your detailed prompt (with clear expectations)
 * ChatGPT's simplified response with an example
@@ -25,16 +26,14 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+<img width="1314" height="843" alt="image" src="https://github.com/user-attachments/assets/3868a97d-a2fb-43c7-ba35-80786c52dc5a" />
 
-
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+Through this task, I learned how to break down a technical concept like networking protocols into simple, relatable language. I also practiced using real-life analogies to make complex ideas easier for beginners to understand, especially for a non-technical audience. 
 
 ---
 
@@ -59,7 +58,11 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user visits a site like EpicReads, the journey begins with packet switching, where data is split into small packets (data packets) and routed independently across the internet before being reassembled at the destination.
+The destination is identified using an IP address, which acts like a unique digital location for the server hosting the website.
+Communication between the user and server follows the TCP/IP protocol suite. TCP ensures reliable, ordered delivery of packets, while IP handles routing them across networks.
+Finally, web content is delivered using HTTP/HTTPS. Whereas, HTTPS adds a layer of security through encryption, ensuring safe browsing and transactions.
+
 
 ---
 
@@ -91,10 +94,9 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram]
+<img width="1527" height="641" alt="image" src="https://github.com/user-attachments/assets/2d764daa-7f79-4db6-a9b8-5b8bc2b6c4ba" />
 
-
-Replace `task-3-diagram.png` with your actual diagram file name.
 
 ---
 
@@ -102,18 +104,21 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+HTML, CSS, JavaScript
+React / Angular / Vue
+
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+Node.js (Express)
+Python (Django / Flask)
+Java (Spring Boot)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+MySQL
+PostgreSQL / MongoDB
+
 
 ---
 
@@ -142,7 +147,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is the internet’s naming system that translates human-readable domain names like epicreads.com into machine-readable IP addresses so browsers can find the correct server.
+To connect epicreads.com to 52.172.142.222, we should use an A record, because it maps a domain directly to an IPv4 address. The port (3000) is not handled by DNS; it is managed by the web server or application configuration after the domain resolves to the correct IP.
+
 
 ---
 
@@ -177,8 +184,7 @@ ls
 ## Screenshot
 
 Save your screenshot in the `screenshots` folder and update the file name below.
-
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+<img width="1415" height="780" alt="image" src="https://github.com/user-attachments/assets/b09f5047-3f19-4e19-b08f-e5a6de7c2376" />
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -217,17 +223,22 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
+https://www.linkedin.com/feed/update/urn:li:activity:7456257572602339328/
 
 ---
 
 ## LinkedIn Post Backup Copy
 
-Paste the full text of your LinkedIn post here:
+https://www.linkedin.com/feed/update/urn:li:activity:7456257572602339328/
 
-Add your post content here...
+My DevOps Learning Journey: Building Strong Foundations
+My recent learning has been focused on understanding the core building blocks of modern systems—Internet & Networking, Application Architecture, and DNS (Domain Name System).
+One key realization: everything we interact with online is essentially a well-orchestrated flow of requests, routing, and resolution. For instance, DNS plays a critical role by translating human-friendly domain names into IP addresses, enabling seamless access to applications across the globe.
+To accelerate my learning, I’ve been using ChatGPT as a real-time learning companion. It has helped me simplify complex concepts, explore practical scenarios, and validate my understanding step by step.
+Another essential part of my workflow is Visual Studio Code. Beyond being a code editor, it serves as a productivity hub for writing configurations, working with infrastructure-as-code, and integrating with CI/CD pipelines.
+📈 Continuously learning, building, and strengthening my understanding of each layer of the stack.
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his https://lnkd.in/dctnze3v
 
 ---
 
