@@ -33,7 +33,8 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+ According to me, change is the biggest truth in life. Most people around me prefer stability and are afraid of change because it feels uncomfortable and uncertain. However, I believe that accepting change is the only way to grow, learn new skills, and become a better person. Whether it is in education, career, relationships, or personal life, change helps us adapt to new situations and discover new opportunities. Instead of resisting change, I think we should embrace it because it is the key to progress and success.
+
 
 ---
 
@@ -51,40 +52,29 @@ Write each truth in this format:
 
 ---
 
-## Truth #1
+## Truth1: Good time management increases productivity.
 
-### Truth
+## Evidence from my life:I made a daily schedule and completed important tasks before spending time on entertainment. I finished my work on time and felt less stressed.
 
-Add your answer here...
 
-### Evidence from my life
-
-Add your answer here...
-
----
 
 ## Truth #2
 
-### Truth
-
-Add your answer here...
+### Truth:Consistent daily effort produces better results than irregular effort.
 
 ### Evidence from my life
 
-Add your answer here...
-
+I studied for a short time every day instead of only before any interview. I understood the topics better, remembered them longer, and I gained more confidence and  improved myself.
 ---
 
 ## Truth #3
 
-### Truth
+### Truth Regular exercise improves physical fitness and mood.
 
-Add your answer here...
 
 ### Evidence from my life
 
-Add your answer here...
-
+I walked and exercised for 30 minutes most days of the week. After a few weeks, I felt stronger, had more stamina, and noticed that I was in a better mood.
 ---
 
 # Assignment 3. What does your 2.0 version look like?
@@ -165,7 +155,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**Yes**
 
 If Yes:
 
@@ -173,7 +163,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt anxious, guilty, and constantly worried about being exposed. I attended an interview for a role that required around seven years of experience, even though I did not have that level of experience. During the interview, I realized I could not confidently answer several technical questions, which increased my stress and self-doubt. Afterward, I regretted trying to take a shortcut instead of building the required skills first. The experience made me understand that honesty about my qualifications is important and that genuine preparation and experience create much stronger confidence than trying to appear more experienced than I actually am.
 
 ---
 
@@ -199,13 +189,12 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
+1.Atomic Habits — James Clear
+2.Deep Work — Cal Newport
+3.The Psychology of Money — Morgan Housel
+4.The DevOps Handbook — Gene Kim, Jez Humble, Patrick Debois & John Willis
+5.SAP BTP-The Comprehensive Guide — Christoph Kotz, Shashank Jain, and Sven Mulder
+6.The Mahabharata-Ramesh Menon
 8. Add your answer here...
 9. Add your answer here...
 10. Add your answer here...
@@ -237,16 +226,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* DevOps skills learned and practiced
+* Hours spent learning new technologies
+* GitHub contributions and project commits
+* Projects built and deployed
+* Health (workouts, steps, and sleep)
+* Quality time spent with family
+* Monthly savings and expense tracking
+* Time management and deep work sessions
+* Technical certifications completed
+
 
 ---
 
@@ -268,11 +257,10 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+YES
 
 Answer:
-
-Add your answer here...
+I wrote down all my thoughts, tasks, goals, worries, and pending responsibilities in a notebook to clear mental clutter and get better clarity on priorities.
 
 ---
 
@@ -290,7 +278,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon–Fri: 9 hours office work
+Mon–Fri: 1 hour deep study (DevOps / SAP BTP / GitHub projects)
+Sat: DMI class + rest time + light personal learning
+Sun: Weekly review + next week planning + full family time + rest
 
 ---
 
@@ -298,11 +289,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Saturday during class time (fixed schedule), and revision if needed in the evening.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+1 structured session on Saturday (plus optional short revision if required)
 
 ---
 
@@ -316,7 +307,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+No phone during deep study hour on weekdays
+Social media only after work and study are completed
+Use a fixed quiet space for learning
+Avoid multitasking during office and study hours
+Keep weekends mostly balanced with learning + rest + family time
 
 ---
 
@@ -324,15 +319,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Time discipline is the key factor. Even a small daily study habit creates progress when followed consistently along with a full-time job.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Sometimes I feel tired after office hours, which reduces focus during my study time.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will study for 1 focused hour every weekday after office (same fixed time) without distractions, treating it as a non-negotiable routine.
 
 ### LinkedIn Post
 
